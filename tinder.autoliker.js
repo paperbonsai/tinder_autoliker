@@ -2,12 +2,12 @@
 // @name         Tinder Auto Liker // 80% yes / 20% no
 // @namespace    http://tampermonkey.net/
 // @grant        none
-// @version      0.1
+// @version      0.2
 // @description  Auto liker for Tinder - 80% likes 20% dislikes in random interval between 1 and 4 seconds
 // @author       Codestormer
-// @match        https://tinder.com/app/recs
-// @downloadURL  https://raw.githubusercontent.com/paperbonsai/tinder_autoliker/main/tinder.autoliker.js
+// @match        https://tinder.com/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {

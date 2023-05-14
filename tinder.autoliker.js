@@ -6,7 +6,7 @@
 // @description  Auto liker for Tinder - 80% likes 20% dislikes in random interval between 1 and 4 seconds
 // @author       Codestormer
 // @match        https://tinder.com/app/recs
-// @downloadURL https://raw.githubusercontent.com/paperbonsai/tinder-autoliker/main/tinder.autoliker.js
+// @downloadURL https://github.com/paperbonsai/tinder_autoliker/blob/main/tinder.autoliker.js
 // @grant        none
 // ==/UserScript==
 
